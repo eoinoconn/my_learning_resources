@@ -1,4 +1,4 @@
-# My Learnign Resources
+# My Learning Resources
 
 A list of courses I intend to do in no particular order as well as articles that peak my interest or that I generally agree with.
 
