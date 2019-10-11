@@ -3,7 +3,6 @@
 A list of courses I intend to do in no particular order as well as articles that peak my interest or that I generally agree with.
 
 ## Courses
-
 - [Standford CS231](http://cs231n.stanford.edu/) Completed
 - [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning?) Completed
 - [Deep Learning - Andrew NG](https://www.coursera.org/specializations/deep-learning?)
@@ -12,10 +11,11 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 ## Articles
-
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
 - [An In-depth Review of the Learning How to Learn Course on Coursera](https://towardsdatascience.com/the-ultimate-skill-learning-how-to-learn-9e2fabdc7f1e)
 - [131 Actionable Ideas from Ten Books I Wish I Had Read Ages Ago](https://medium.com/the-mission/131-actionable-ideas-from-ten-books-i-wish-i-had-read-ages-ago-d751c17402de)
+- [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
+- [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088) The best intro article on YOLO you'll ever read.
 
 ## Books
 - [Deep Learning by Ian Goodfellow](http://www.deeplearningbook.org/)
@@ -24,10 +24,10 @@ A list of courses I intend to do in no particular order as well as articles that
 
 
 ## Favourite papers
-
 - [Model Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400v3.pdf)
 - [Densecap](https://cs.stanford.edu/people/karpathy/densecap/)
 - [Dense Video Cap](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
+- [Learning to Learn by Gradient Descent by Gradient Descent](https://arxiv.org/abs/1606.04474)
 
 ## TODO:
 - Add Meta Learning and few shot papers
