@@ -7,7 +7,7 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning?) Completed
 - [Deep Learning - Andrew NG](https://www.coursera.org/specializations/deep-learning?)
 - [Fast.ai](Fast.ai) 
-- [LearnOpenCV.org](https://www.learnopencv.com/) Great collection of articles with actual course comming soon.
+- [LearnOpenCV.org](https://www.learnopencv.com/) Great collection of articles with actual course coming soon.
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 
 ## Articles
@@ -21,13 +21,18 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Deep Learning by Ian Goodfellow](http://www.deeplearningbook.org/)
 - [Goalkicker books](https://books.goalkicker.com/)
 - [Artificial inteligence: A modern approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
-
+- [Algebra, Topology, Differential Calculus, and
+Optimization Theory
+For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
 ## Favourite papers
 - [Model Agnostic Meta-Learning](https://arxiv.org/pdf/1703.03400v3.pdf)
 - [Densecap](https://cs.stanford.edu/people/karpathy/densecap/)
 - [Dense Video Cap](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 - [Learning to Learn by Gradient Descent by Gradient Descent](https://arxiv.org/abs/1606.04474)
+
+## Productivity Articles
+- [Intro to bullet Journalling](https://medium.com/@melodywilding/bullet-journaling-for-beginners-and-impatient-unartistic-people-like-me-6efd7ee97f0e)
 
 ## TODO:
 - Add Meta Learning and few shot papers
