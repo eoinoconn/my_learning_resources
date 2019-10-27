@@ -34,6 +34,10 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 ## Productivity Articles
 - [Intro to bullet Journalling](https://medium.com/@melodywilding/bullet-journaling-for-beginners-and-impatient-unartistic-people-like-me-6efd7ee97f0e)
 
+## Interview Prep
+- [Data Science Question Answer](https://github.com/ShuaiW/data-science-question-answer)
+- [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
+
 ## TODO:
 - Add Meta Learning and few shot papers
 - Add catalogue from Medium accounts
