@@ -9,6 +9,7 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Fast.ai](Fast.ai) 
 - [LearnOpenCV.org](https://www.learnopencv.com/) Great collection of articles with actual course coming soon.
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [Machine Learning with TensorFlow on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) Very tensorflow/GCP specific
 
 ## Articles
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
