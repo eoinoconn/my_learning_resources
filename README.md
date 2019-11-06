@@ -39,6 +39,12 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [Data Science Question Answer](https://github.com/ShuaiW/data-science-question-answer)
 - [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
 
+## Blogs/RSS Feeds
+- [DeepLearning.ai](https://www.deeplearning.ai/blog/category/community/)
+- [topbots](https://www.topbots.com/)
+- [OpenAI](https://openai.com/blog/)
+- [ReWork](https://blog.re-work.co/)
+
 ## TODO:
 - Add Meta Learning and few shot papers
 - Add catalogue from Medium accounts
