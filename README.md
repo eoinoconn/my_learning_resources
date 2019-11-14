@@ -46,6 +46,10 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [topbots](https://www.topbots.com/)
 - [OpenAI](https://openai.com/blog/)
 - [ReWork](https://blog.re-work.co/)
+- [jack clark / import AI](https://jack-clark.net/)
+
+## Useful sites
+- [arxiv sanity preserver](http://www.arxiv-sanity.com/)
 
 ## TODO:
 - Add Meta Learning and few shot papers
