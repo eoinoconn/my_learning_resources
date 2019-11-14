@@ -6,10 +6,11 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Standford CS231](http://cs231n.stanford.edu/) Completed
 - [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning?) Completed
 - [Deep Learning - Andrew NG](https://www.coursera.org/specializations/deep-learning?)
-- [Fast.ai](Fast.ai) 
+- [Fast.ai](https://Fast.ai) 
 - [LearnOpenCV.org](https://www.learnopencv.com/) Great collection of articles with actual course coming soon.
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [Machine Learning with TensorFlow on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) Very tensorflow/GCP specific
+- [Computer Vision Specialization, UNIVERSITY AT BUFFALO](https://www.coursera.org/specializations/computervision?action=enroll) Considering
 
 ## Articles
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
