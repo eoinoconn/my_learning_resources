@@ -50,8 +50,9 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 
 ## Useful sites
 - [arxiv sanity preserver](http://www.arxiv-sanity.com/)
+- [papers with code](https://paperswithcode.com/)
+- [SOTA bench](https://sotabench.com/)
 
 ## TODO:
 - Add Meta Learning and few shot papers
-- Add catalogue from Medium accounts
 - Add catalogue from mendeley account 
