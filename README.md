@@ -11,6 +11,7 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [Machine Learning with TensorFlow on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) Very tensorflow/GCP specific
 - [Computer Vision Specialization, UNIVERSITY AT BUFFALO](https://www.coursera.org/specializations/computervision?action=enroll) Considering
+- [Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 
 ## Articles
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
@@ -33,6 +34,7 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [Densecap](https://cs.stanford.edu/people/karpathy/densecap/)
 - [Dense Video Cap](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 - [Learning to Learn by Gradient Descent by Gradient Descent](https://arxiv.org/abs/1606.04474)
+- [DAPs: Deep Action Proposals for Action Understanding](https://repository.kaust.edu.sa/bitstream/handle/10754/604944/DAPs%20Deep%20Action%20Proposals%20for%20Action%20Understanding.pdf?sequence=4&isAllowed=y)
 
 ## Productivity Articles
 - [Intro to bullet Journalling](https://medium.com/@melodywilding/bullet-journaling-for-beginners-and-impatient-unartistic-people-like-me-6efd7ee97f0e)
