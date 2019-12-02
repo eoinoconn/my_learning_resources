@@ -54,6 +54,7 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [arxiv sanity preserver](http://www.arxiv-sanity.com/)
 - [papers with code](https://paperswithcode.com/)
 - [SOTA bench](https://sotabench.com/)
+- [CV datasets](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
 
 ## TODO:
 - Add Meta Learning and few shot papers
