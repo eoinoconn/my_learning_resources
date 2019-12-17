@@ -20,6 +20,7 @@ A list of courses I intend to do in no particular order as well as articles that
 - [A Basic Introduction to Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088) The best intro article on YOLO you'll ever read.
 - [What’s easy/hard in AI & Computer Vision these days?](https://medium.com/@CharlesOllion/whats-easy-hard-in-ai-computer-vision-these-days-e7679b9f7db7)
+- [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab
 
 ## Books
 - [Deep Learning by Ian Goodfellow](http://www.deeplearningbook.org/)
