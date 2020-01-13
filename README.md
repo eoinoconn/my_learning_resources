@@ -12,6 +12,7 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Machine Learning with TensorFlow on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) Very tensorflow/GCP specific
 - [Computer Vision Specialization, UNIVERSITY AT BUFFALO](https://www.coursera.org/specializations/computervision?action=enroll) Considering
 - [Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
+- [Gluon](https://gluon.mxnet.io/)
 
 ## Articles
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
