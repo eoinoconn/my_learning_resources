@@ -13,6 +13,7 @@ A list of courses I intend to do in no particular order as well as articles that
 - [Computer Vision Specialization, UNIVERSITY AT BUFFALO](https://www.coursera.org/specializations/computervision?action=enroll) Considering
 - [Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
 - [Gluon](https://gluon.mxnet.io/)
+- [CS 6476: Computer Vision - Georgia Tech](https://samyak-268.github.io/F19CS6476/)
 
 ## Articles
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
@@ -37,6 +38,8 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [Dense Video Cap](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 - [Learning to Learn by Gradient Descent by Gradient Descent](https://arxiv.org/abs/1606.04474)
 - [DAPs: Deep Action Proposals for Action Understanding](https://repository.kaust.edu.sa/bitstream/handle/10754/604944/DAPs%20Deep%20Action%20Proposals%20for%20Action%20Understanding.pdf?sequence=4&isAllowed=y)
+- [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355)
+- [M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network](https://arxiv.org/abs/1811.04533)
 
 ## Productivity Articles
 - [Intro to bullet Journalling](https://medium.com/@melodywilding/bullet-journaling-for-beginners-and-impatient-unartistic-people-like-me-6efd7ee97f0e)
