@@ -3,17 +3,11 @@
 A list of courses I intend to do in no particular order as well as articles that peak my interest or that I generally agree with.
 
 ## Courses
-- [Standford CS231](http://cs231n.stanford.edu/) Completed
-- [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning?) Completed
-- [Deep Learning - Andrew NG](https://www.coursera.org/specializations/deep-learning?)
+- [Standford CS231](http://cs231n.stanford.edu/)
+- [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/@AndrejKarpathy)
+- [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning?)
 - [Fast.ai](https://Fast.ai) 
-- [LearnOpenCV.org](https://www.learnopencv.com/) Great collection of articles with actual course coming soon.
-- [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
-- [Machine Learning with TensorFlow on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) Very tensorflow/GCP specific
-- [Computer Vision Specialization, UNIVERSITY AT BUFFALO](https://www.coursera.org/specializations/computervision?action=enroll) Considering
-- [Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv)
-- [Gluon](https://gluon.mxnet.io/)
-- [CS 6476: Computer Vision - Georgia Tech](https://samyak-268.github.io/F19CS6476/)
+- [LearnOpenCV.org](https://www.learnopencv.com/)
 
 ## Articles
 - [Image Captioning in Python with Keras](https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18)
@@ -52,15 +46,9 @@ For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-
 - [DeepLearning.ai](https://www.deeplearning.ai/blog/category/community/)
 - [topbots](https://www.topbots.com/)
 - [OpenAI](https://openai.com/blog/)
-- [ReWork](https://blog.re-work.co/)
 - [jack clark / import AI](https://jack-clark.net/)
 
 ## Useful sites
 - [arxiv sanity preserver](http://www.arxiv-sanity.com/)
 - [papers with code](https://paperswithcode.com/)
 - [SOTA bench](https://sotabench.com/)
-- [CV datasets](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
-
-## TODO:
-- Add Meta Learning and few shot papers
-- Add catalogue from mendeley account 
